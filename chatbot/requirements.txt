@@ -1,0 +1,12 @@
+streamlit>=1.24.0
+langchain>=0.1.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+tqdm
+python-dotenv
+requests
+unstructured>=0.7.1
+python-docx
+PyPDF2>=3.0.0
+pydantic
+rich
