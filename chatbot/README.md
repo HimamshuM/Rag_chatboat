@@ -9,7 +9,6 @@ This repository demonstrates a Retrieval-Augmented Generation (RAG) chatbot buil
 
 Documents included:
 - `data/FAQ.docx`
-- `data/Assessment (Data Science).pdf`
 
 ## Features
 - Document ingestion (docx, pdf, md, txt)
@@ -25,4 +24,5 @@ Documents included:
 python -m venv .venv
 source .venv/bin/activate     # macOS/Linux
 .venv\Scripts\activate        # Windows
+
 
